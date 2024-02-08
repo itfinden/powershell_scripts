@@ -1,0 +1,1 @@
+Powershell utiles con Intune
